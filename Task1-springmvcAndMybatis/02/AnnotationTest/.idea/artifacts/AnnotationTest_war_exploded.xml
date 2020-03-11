@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AnnotationTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnnotationTest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AnnotationTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AnnotationTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
