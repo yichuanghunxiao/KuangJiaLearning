@@ -8,6 +8,6 @@
     <a href="pathVariableTest/1">测试@PathVariable注解</a><br><br>
     <a href="matrixVariableTest/1;name=jack;age=23">测试@MatrixVariable注解</a><br><br>
     <a href="productTest/computer;brand=apple;acer;low=2000;height=10000">商品条件查询（品牌，价格区间）</a><br><br>
-    <a href="http://localhost:8080/CrossOriginTest/welcome">测试@CrossOrigin注解</a>
+    <a href="http://localhost:8080/welcome">测试@CrossOrigin注解</a>
   </body>
 </html>
