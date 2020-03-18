@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RequestBodyTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RequestBodyTest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RequestBodyTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RequestBodyTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
